@@ -73,7 +73,7 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Send Me Linke Your Server | RaWeN Up`) 
+client.user.setGame(`Send Me You Server Link | Sweet Dreams`) 
 });
 
 
